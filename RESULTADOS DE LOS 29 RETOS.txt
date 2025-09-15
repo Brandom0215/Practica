@@ -1,0 +1,100 @@
+RESULTADOS DE LOS 29 RETOS 
+
+-Primero se muestra el enunciado y luego la salida en el programa
+
+Reto 1: Concatenar el nombre con la palabra "Explorador".
+Reto 1: Bitín Explorador
+
+Reto 2: Unir el cuento en oraciones por "." y separarlas con "|".
+Reto 2: En el vasto universo existía un ser llamado Bitín |  Bitín era un explorador intrépido, siempre buscando aventuras en el espacio |  A veces viajaba por ciudades luminosas y otras veces se encontraba en la inmensidad de la nube |  Sin embargo, un día se encontró con un firewall misterioso que bloqueaba su acceso a nuevos mundos |  A medida que avanzaba, se dio cuenta de que el firewall era más poderoso de lo que imaginaba |  Pero su mayor sueño era encontrar la respuesta a los misterios del cosmos...
+
+Reto 3: Mostrar la cantidad de caracteres y palabras.
+Reto 3: El cuento tiene 742 caracteres y 125 palabras.
+
+Reto 4: Mostrar interpolación con el nombre y su meta.
+Reto 4: El protagonista es Bitín y busca misterios del cosmos.
+
+Reto 5: Convertir un número a string (Ejemplo: longitud del cuento).
+Reto 5: El cuento tiene 742 caracteres.
+
+Reto 6: IndexOf para encontrar la palabra "mundo".
+Reto 6: Se encontró 'mundo' en la posición 316
+
+Reto 7: LastIndexOf para encontrar la palabra "ceros".
+Reto 7: No se encontró 'ceros'.
+
+Reto 8: Contains para verificar si el cuento menciona la palabra "Nube".
+Reto 8: El cuento no tiene la palabra Nube.
+
+Reto 9: StartsWith para comprobar si el cuento empieza con "En el vasto universo".
+Reto 9: El cuento empieza con 'En el vasto universo'.
+
+Reto 10: EndsWith para verificar si el cuento termina con "ceros".
+Reto 10: El cuento no termina con 'ceros'.
+
+Reto 11: Substring para extraer la palabra "ciudades luminosas".
+Reto 11: ciudades luminosas
+
+Reto 12: Remove para eliminar los primeros 15 caracteres del cuento.
+Reto 12: verso existía un ser llamado Bitín. Bitín era un explorador intrépido, siempre buscando aventuras en el espacio. A veces viajaba por ciudades luminosas y otras veces se encontraba en la inmensidad de la nube. Sin embargo, un día se encontró con un firewall misterioso que bloqueaba su acceso a nuevos mundos. A medida que avanzaba, se dio cuenta de que el firewall era más poderoso de lo que imaginaba. Pero su mayor sueño era encontrar la respuesta a los misterios del cosmos, para comprender cómo f...
+
+Reto 13: Replace para reemplazar todas las apariciones de "Bitín" por "Programax".
+Reto 13: En el vasto universo existía un ser llamado Programax. Programax era un explorador intrépido, siempre buscando aventuras en el espacio. A veces viajaba por ciudades luminosas y otras veces se encontraba en la inmensidad de la nube. Sin embargo, un día se encontró con un firewall misterioso que bloqueaba su acceso a nuevos mundos. A medida que avanzaba, se dio cuenta de que el firewall era más poderoso de lo que imaginaba. Pero su mayor sueño era encontrar la respuesta a los misterios del cosmos,...
+
+Reto 14: Insert para insertar la palabra "(IMPORTANTE)" después de "firewall".
+Reto 14: En el vasto universo existía un ser llamado Bitín. Bitín era un explorador intrépido, siempre buscando aventuras en el espacio. A veces viajaba por ciudades luminosas y otras veces se encontraba en la inmensidad de la nube. Sin embargo, un día se encontró con un firewall (IMPORTANTE) misterioso que bloqueaba su acceso a nuevos mundos. A medida que avanzaba, se dio cuenta de que el firewall era más poderoso de lo que imaginaba. Pero su mayor sueño era encontrar la respuesta a los misterios del co...
+
+Reto 15: PadLeft para rellenar la palabra "Bitín" con '*' hasta tener 10 caracteres.
+Reto 15: *****Bitín
+
+Reto 16: PadRight para rellenar la palabra "Nube" con '-' hasta tener 12 caracteres.
+Reto 16: Nube--------
+
+Reto 17: Trim para eliminar los espacios extras.
+Reto 17: firewall
+
+Reto 18: TrimStart para eliminar los espacios iniciales.
+Reto 18: Mundo binario
+
+Reto 19: TrimEnd para eliminar los espacios finales.
+Reto 19: Bitín explorador
+
+Reto 20: Split para dividir el cuento en palabras individuales.
+Reto 20: Las primeras 10 palabras son:
+En
+el
+vasto
+universo
+existía
+un
+ser
+llamado
+Bitín.
+Bitín
+
+Reto 21: Equals para comparar si "Nube" y "nube" son iguales (sensible a mayúsculas/minúsculas).
+Reto 21: No son iguales.
+
+Reto 22: Compare para comparar "Bitín" y "Firewall".
+Reto 22: -1
+
+Reto 23: CompareTo para comparar "Nube" y "Cielo".
+Reto 23: 1
+
+Reto 24: IsNullOrEmpty para verificar si una cadena está vacía.
+Reto 24: La cadena está vacía.
+
+Reto 25: IsNullOrWhiteSpace para verificar si una cadena tiene solo espacios.
+Reto 25: La cadena solo tiene espacios.
+
+Reto 26: ToLower para convertir todo el cuento a minúsculas.
+Reto 26: en el vasto universo existía un ser llamado bitín. bitín era un explorador intrépido, siempre buscando aventuras en el espacio. a veces viajaba por ciudades luminosas y otras veces se encontraba en la inmensidad de la nube. sin embargo, un día se encontró con un firewall misterioso que bloqueaba su acceso a nuevos mundos. a medida que avanzaba, se dio cuenta de que el firewall era más poderoso de lo que imaginaba. pero su mayor sueño era encontrar la respuesta a los misterios del cosmos, para co...
+
+Reto 27: ToUpper para convertir todo el cuento a mayúsculas.
+Reto 27: EN EL VASTO UNIVERSO EXISTÍA UN SER LLAMADO BITÍN. BITÍN ERA UN EXPLORADOR INTRÉPIDO, SIEMPRE BUSCANDO AVENTURAS EN EL ESPACIO. A VECES VIAJABA POR CIUDADES LUMINOSAS Y OTRAS VECES SE ENCONTRABA EN LA INMENSIDAD DE LA NUBE. SIN EMBARGO, UN DÍA SE ENCONTRÓ CON UN FIREWALL MISTERIOSO QUE BLOQUEABA SU ACCESO A NUEVOS MUNDOS. A MEDIDA QUE AVANZABA, SE DIO CUENTA DE QUE EL FIREWALL ERA MÁS PODEROSO DE LO QUE IMAGINABA. PERO SU MAYOR SUEÑO ERA ENCONTRAR LA RESPUESTA A LOS MISTERIOS DEL COSMOS, PARA CO...
+
+Reto 28: ToLowerInvariant para convertir "NUBE" a minúsculas.
+Reto 28: nube
+
+Reto 29: ToUpperInvariant para convertir "bitín" a mayúsculas.
+Reto 29: BITÍN
