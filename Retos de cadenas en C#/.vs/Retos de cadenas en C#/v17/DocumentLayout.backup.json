@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Adalberto\\Practica\\Retos de cadenas en C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4F8391-13F8-4525-9590-A864DC3C96DD}|Retos de cadenas en C#\\Retos de cadenas en C#.csproj|c:\\users\\adalberto\\practica\\retos de cadenas en c#\\retos de cadenas en c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4F8391-13F8-4525-9590-A864DC3C96DD}|Retos de cadenas en C#\\Retos de cadenas en C#.csproj|solutionrelative:retos de cadenas en c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Adalberto\\Practica\\Retos de cadenas en C#\\Retos de cadenas en C#\\Program.cs",
+              "RelativeDocumentMoniker": "Retos de cadenas en C#\\Program.cs",
+              "ToolTip": "C:\\Users\\Adalberto\\Practica\\Retos de cadenas en C#\\Retos de cadenas en C#\\Program.cs",
+              "RelativeToolTip": "Retos de cadenas en C#\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T01:14:28.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

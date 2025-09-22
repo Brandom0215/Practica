@@ -1,0 +1,29 @@
+C:\Users\Adalberto\Programas C# - DS-IV\Retos de cadenas en C#\Retos de cadenas en C#\bin\Debug\net8.0\Retos de cadenas en C#.exe
+C:\Users\Adalberto\Programas C# - DS-IV\Retos de cadenas en C#\Retos de cadenas en C#\bin\Debug\net8.0\Retos de cadenas en C#.deps.json
+C:\Users\Adalberto\Programas C# - DS-IV\Retos de cadenas en C#\Retos de cadenas en C#\bin\Debug\net8.0\Retos de cadenas en C#.runtimeconfig.json
+C:\Users\Adalberto\Programas C# - DS-IV\Retos de cadenas en C#\Retos de cadenas en C#\bin\Debug\net8.0\Retos de cadenas en C#.dll
+C:\Users\Adalberto\Programas C# - DS-IV\Retos de cadenas en C#\Retos de cadenas en C#\bin\Debug\net8.0\Retos de cadenas en C#.pdb
+C:\Users\Adalberto\Programas C# - DS-IV\Retos de cadenas en C#\Retos de cadenas en C#\obj\Debug\net8.0\Retos de cadenas en C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adalberto\Programas C# - DS-IV\Retos de cadenas en C#\Retos de cadenas en C#\obj\Debug\net8.0\Retos de cadenas en C#.AssemblyInfoInputs.cache
+C:\Users\Adalberto\Programas C# - DS-IV\Retos de cadenas en C#\Retos de cadenas en C#\obj\Debug\net8.0\Retos de cadenas en C#.AssemblyInfo.cs
+C:\Users\Adalberto\Programas C# - DS-IV\Retos de cadenas en C#\Retos de cadenas en C#\obj\Debug\net8.0\Retos de cadenas en C#.csproj.CoreCompileInputs.cache
+C:\Users\Adalberto\Programas C# - DS-IV\Retos de cadenas en C#\Retos de cadenas en C#\obj\Debug\net8.0\Retos de cadenas en C#.dll
+C:\Users\Adalberto\Programas C# - DS-IV\Retos de cadenas en C#\Retos de cadenas en C#\obj\Debug\net8.0\refint\Retos de cadenas en C#.dll
+C:\Users\Adalberto\Programas C# - DS-IV\Retos de cadenas en C#\Retos de cadenas en C#\obj\Debug\net8.0\Retos de cadenas en C#.pdb
+C:\Users\Adalberto\Programas C# - DS-IV\Retos de cadenas en C#\Retos de cadenas en C#\obj\Debug\net8.0\Retos de cadenas en C#.genruntimeconfig.cache
+C:\Users\Adalberto\Programas C# - DS-IV\Retos de cadenas en C#\Retos de cadenas en C#\obj\Debug\net8.0\ref\Retos de cadenas en C#.dll
+C:\Users\Adalberto\Practica\Retos de cadenas en C#\Retos de cadenas en C#\bin\Debug\net8.0\Retos de cadenas en C#.exe
+C:\Users\Adalberto\Practica\Retos de cadenas en C#\Retos de cadenas en C#\bin\Debug\net8.0\Retos de cadenas en C#.deps.json
+C:\Users\Adalberto\Practica\Retos de cadenas en C#\Retos de cadenas en C#\bin\Debug\net8.0\Retos de cadenas en C#.runtimeconfig.json
+C:\Users\Adalberto\Practica\Retos de cadenas en C#\Retos de cadenas en C#\bin\Debug\net8.0\Retos de cadenas en C#.dll
+C:\Users\Adalberto\Practica\Retos de cadenas en C#\Retos de cadenas en C#\bin\Debug\net8.0\Retos de cadenas en C#.pdb
+C:\Users\Adalberto\Practica\Retos de cadenas en C#\Retos de cadenas en C#\obj\Debug\net8.0\Retos de cadenas en C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adalberto\Practica\Retos de cadenas en C#\Retos de cadenas en C#\obj\Debug\net8.0\Retos de cadenas en C#.AssemblyInfoInputs.cache
+C:\Users\Adalberto\Practica\Retos de cadenas en C#\Retos de cadenas en C#\obj\Debug\net8.0\Retos de cadenas en C#.AssemblyInfo.cs
+C:\Users\Adalberto\Practica\Retos de cadenas en C#\Retos de cadenas en C#\obj\Debug\net8.0\Retos de cadenas en C#.csproj.CoreCompileInputs.cache
+C:\Users\Adalberto\Practica\Retos de cadenas en C#\Retos de cadenas en C#\obj\Debug\net8.0\Retos de cadenas en C#.sourcelink.json
+C:\Users\Adalberto\Practica\Retos de cadenas en C#\Retos de cadenas en C#\obj\Debug\net8.0\Retos de cadenas en C#.dll
+C:\Users\Adalberto\Practica\Retos de cadenas en C#\Retos de cadenas en C#\obj\Debug\net8.0\refint\Retos de cadenas en C#.dll
+C:\Users\Adalberto\Practica\Retos de cadenas en C#\Retos de cadenas en C#\obj\Debug\net8.0\Retos de cadenas en C#.pdb
+C:\Users\Adalberto\Practica\Retos de cadenas en C#\Retos de cadenas en C#\obj\Debug\net8.0\Retos de cadenas en C#.genruntimeconfig.cache
+C:\Users\Adalberto\Practica\Retos de cadenas en C#\Retos de cadenas en C#\obj\Debug\net8.0\ref\Retos de cadenas en C#.dll
